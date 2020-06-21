@@ -1,12 +1,7 @@
 package learn.concurrent.data;
 
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-
 import java.util.Date;
 
-@Getter
-@NoArgsConstructor
 public class SimpleDataPo {
     private Long id;
 
@@ -28,6 +23,9 @@ public class SimpleDataPo {
         this.text = text;
     }
 
+    public SimpleDataPo() {
+    }
+
     public void setId(Long id) {
         this.updateTime = new Date();
         this.id = id;
@@ -46,5 +44,29 @@ public class SimpleDataPo {
     public void setText(String text) {
         this.updateTime = new Date();
         this.text = text;
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public String getText() {
+        return text;
+    }
+
+    public Date getCreateTime() {
+        return createTime;
+    }
+
+    public Date getUpdateTime() {
+        return updateTime;
     }
 }
