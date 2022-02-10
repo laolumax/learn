@@ -124,7 +124,7 @@
     <aspectj.version>1.7.4</aspectj.version>
     <spring.version>4.0.0.RELEASE</spring.version>
     <spring.data.jpa.version>1.4.1.RELEASE</spring.data.jpa.version>
-    <hibernate.core.version>4.3.0.Final</hibernate.core.version>
+    <hibernate.core.version>5.4.24.Final</hibernate.core.version>
     <hibernate.ehcache.version>4.3.0.Final</hibernate.ehcache.version>
     <hibernate.commons.annotaions.version>4.0.4.Final</hibernate.commons.annotaions.version>
     <hibernate.validator.version>5.0.2.Final</hibernate.validator.version>
