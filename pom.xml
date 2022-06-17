@@ -134,7 +134,7 @@
     <slf4j.version>1.7.5</slf4j.version>
     <logback.version>1.0.13</logback.version>
     <druid.version>0.2.23</druid.version>
-    <fastjson.version>1.1.34</fastjson.version>
+    <fastjson.version>1.2.83</fastjson.version>
     <httpclient.version>4.3.1</httpclient.version>
     <dom4j.version>1.6.1</dom4j.version>
     <joda-time.version>2.3</joda-time.version>
