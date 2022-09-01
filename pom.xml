@@ -140,7 +140,7 @@
     <joda-time.version>2.3</joda-time.version>
     <prettytime.version>3.2.3.Final</prettytime.version>
     <jcaptcha.version>2.0-alpha-1</jcaptcha.version>
-    <jsoup.version>1.7.3</jsoup.version>
+    <jsoup.version>1.15.3</jsoup.version>
 
     <!-- mysql driver setting -->
     <jdbc.driver.groupId>mysql</jdbc.driver.groupId>
